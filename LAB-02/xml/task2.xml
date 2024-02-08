@@ -1,0 +1,22 @@
+<students>
+    <heading>
+        <sl>SL No</sl>
+        <name>Name</name>
+        <admissionDate>Admission Date</admissionDate>
+    </heading>
+    <student>
+        <sl>1</sl>
+        <name>Abdul</name>
+        <admissionDate>27/4/24 Date</admissionDate>
+    </student>
+    <student>
+        <sl>2</sl>
+        <name>Rahim</name>
+        <admissionDate>27/4/24 Date</admissionDate>
+    </student>
+    <student>
+        <sl>3</sl>
+        <name>Karim</name>
+        <admissionDate>27/4/24 Date</admissionDate>
+    </student>
+</students>
